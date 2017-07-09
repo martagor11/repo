@@ -1,0 +1,9 @@
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\bin\Debug\Recepta.exe.config
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\bin\Debug\Recepta.exe
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\bin\Debug\Recepta.pdb
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\obj\Debug\Recepta.csprojResolveAssemblyReference.cache
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\obj\Debug\Recepta.Form1.resources
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\obj\Debug\Recepta.Properties.Resources.resources
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\obj\Debug\Recepta.csproj.GenerateResource.Cache
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\obj\Debug\Recepta.exe
+D:\Projekty\Od zera do gier kodera\C#\Recepta\Recepta\obj\Debug\Recepta.pdb
